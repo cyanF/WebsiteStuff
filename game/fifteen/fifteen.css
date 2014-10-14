@@ -1,0 +1,38 @@
+body {
+	font-size: 14pt;
+	text-align: center;
+}
+
+button, body{
+	font-family: cursive;
+}
+
+#puzzlearea {
+	height: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	width: 400px;
+}
+
+.rectangle {
+	background-image: url('anohana.jpg');
+	border: 5px solid black;
+	cursor: default;
+	font-size: 40pt;
+	height: 90px;
+	position: absolute;
+	width: 90px;
+}
+
+.hover {
+	border: red solid 5px;
+	color: red;
+	cursor: pointer;
+}
+
+#winMessageDiv{
+	color: yellow;
+	font-size: 30px;
+
+}

@@ -1,0 +1,84 @@
+body{
+	text-align: center;
+	font-family: cursive;
+	background-color: black;
+	color: white;
+}
+
+.fish{
+	width: 70px;
+	height: 50px;
+	position: absolute;
+}
+
+.left.level1.type0{
+	background-image: url('picture/fish_left_1.png');
+}
+
+.right.level1.type0{
+	background-image: url('picture/fish_right_1.png');
+}
+
+.left.level2.type0{
+	background-image: url('picture/fish_left_2.png');
+}
+
+.right.level2.type0{
+	background-image: url('picture/fish_right_2.png');
+}
+
+.left.level3.type0{
+	background-image: url('picture/fish_left_3.png');
+}
+
+.right.level3.type0{
+	background-image: url('picture/fish_right_3.png');
+}
+
+.left.level4.type0{
+	background-image: url('picture/fish_left_4.png');
+}
+
+.right.level4.type0{
+	background-image: url('picture/fish_right_4.png');
+}
+
+.left.level1.type1{
+	background-image: url('picture/fish1_left_1.png');
+}
+
+.right.level1.type1{
+	background-image: url('picture/fish1_right_1.png');
+}
+
+.left.level2.type1{
+	background-image: url('picture/fish1_left_2.png');
+}
+
+.right.level2.type1{
+	background-image: url('picture/fish1_right_2.png');
+}
+
+#area{
+	border-radius: 3px;
+	width: 800px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.hightlight{
+	color: red;
+}
+
+#buyfishes{
+	position: absolute;
+	right: 100px;
+	top: 200px;
+}
+
+.chosen{
+	border: white solid 3px;
+	border-radius: 10px;
+}

@@ -1,0 +1,27 @@
+#playground{
+	height: 500px;
+	width: 500px;
+	border: 5px solid orange;
+}
+
+#gameover,#again{
+	color: orange;
+	text-align: center;
+}
+
+#again{
+	cursor: pointer;
+}
+
+#overlay{
+	top: 10px;
+	left: 10px;
+}
+
+#overlay p{
+	margin: 0px;
+}
+
+body{
+	font-family: cursive;
+}

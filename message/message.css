@@ -1,0 +1,19 @@
+body, button{
+	text-align: center;
+	font-family: cursive;
+}
+
+#message{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2em;
+}
+
+p{
+	margin: 0px;
+}
+
+#message p:nth-child(odd){
+	background-color: lightgray;
+}

@@ -1,0 +1,4 @@
+0,indexpic/anohana.png,http://students.washington.edu/qingyf/game/fifteen/
+1,indexpic/doge.png,http://students.washington.edu/qingyf/game/doge/
+2,indexpic/fish.png,http://students.washington.edu/qingyf/game/fish/
+15,indexpic/sad.png,http://students.washington.edu/qingyf/web/sad/
